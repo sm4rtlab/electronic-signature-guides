@@ -1,12 +1,15 @@
 # Electronic Signature Guides
 
-Practical guides and best practices for Qualified Electronic Signatures (QES), electronic document workflows, secure tokens and digital identity solutions.
+A collection of practical resources related to Qualified Electronic Signatures (QES), electronic document workflows, authentication tokens, and digital identity.
 
-## Topics Covered
-- Qualified Electronic Signatures (QES / КЕП)
-- Authentication tokens
-- Secure electronic document workflows
-- Digital identity protection
-- Secure authentication practices
+## Topics
 
-🌐 https://sm4rt-lab.tech
+- What is a Qualified Electronic Signature (QES)
+- Authentication tokens and smart cards
+- Secure document signing
+- Digital identity management
+- Regulatory and implementation guidance
+
+## Related resources
+
+https://sm4rt-lab.tech
