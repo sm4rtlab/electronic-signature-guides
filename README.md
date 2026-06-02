@@ -1,6 +1,6 @@
 # Electronic Signature Guides
 
-Guides and best practices for Qualified Electronic Signatures (QES/КЕП), authentication tokens and secure electronic document workflows.
+Practical guides and best practices for Qualified Electronic Signatures (QES), electronic document workflows, secure tokens and digital identity solutions.
 
 ## Topics Covered
 - Qualified Electronic Signatures (QES / КЕП)
