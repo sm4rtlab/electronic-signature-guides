@@ -13,3 +13,7 @@ A collection of practical resources related to Qualified Electronic Signatures (
 ## Related resources
 
 https://sm4rt-lab.tech
+
+## License
+
+This content is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
